@@ -1,0 +1,117 @@
+@media screen and (max-width: 994px) {
+  .card {
+    margin-bottom: 20px;
+  }
+
+}
+@media screen and (min-width: 768px){
+.navbar-nav {
+    float: left;
+    margin: 0;
+    float: right;
+}
+}
+@media (min-width: 768px) and (max-width: 991px){
+.navbar-nav {
+  display: none;
+}
+}
+
+@media screen and (min-width: 950px) {
+  ul {
+    margin-right:0px;
+  }
+
+}
+.JudgementBox{
+  margin-top: 10px;
+}
+
+.card{
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+  width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+ul{
+  margin-top: 20px;
+  margin-right: 200px;
+  overflow: hidden;
+}
+ul li {
+  display: inline;
+  padding-right: 30px;
+  float:right;
+  margin-right: 20px;
+  display: block;
+}
+.container{
+  width: 80%;
+}
+.navbar{
+  height: 64px;
+  position: sticky;
+  z-index: 999;
+  top:0;
+  bottom: 0;
+  border-radius: 0px;
+}
+.bg-dark{
+   background-color: #000 !important;
+}
+.btn{
+  background-color: #097124f2;
+  border-color: none !important;
+}
+.btn-primary{
+  border-color: none !important;
+}
+.spacingupper {
+  padding-top: 30px;
+}
+.spacing{
+  padding-bottom: 20px;
+}
+.navbar-brand{
+  margin-left: 150px;
+}
+.card-title{
+  font-weight: bold;
+  color: #4e4c4ced;
+}
+.card-text{
+  color: #828282;
+    font-weight: 500;
+}
+.sidenav {
+  margin-top: 64px;
+    height: 100%;
+    width: 50px;
+    position: fixed;
+    top:0;
+    bottom: 0;
+    z-index: 1;
+    background-color: #F2F2F2;
+    overflow-x: hidden;
+}
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+
+
+}
+.backglyph{
+   background-color: #3333331c;
+ border-radius: 50%;
+ border: 1x solid #3333;
+ padding:10px;
+}
+.backglyph1{
+  background-color: #3333339e;
+  border-radius: 50%;
+  padding: 7px;
+  color:#f1f1f1;
+}
