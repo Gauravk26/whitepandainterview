@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/whitepandainterview/static/css/main.c3ecb815.chunk.css"
   },
   {
-    "revision": "3c2f1886bc485d39fd341578fb1dfe8a",
+    "revision": "58bff5040b82ca05c66201d7b01be8ba",
     "url": "/whitepandainterview/index.html"
   }
 ];
